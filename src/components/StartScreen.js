@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet, Text, Button, View ,Image} from "react-native";
+import { Text, Button, View ,Image} from "react-native";
 const styles = {
   imgStyle: {
     alignSelf: 'center',
